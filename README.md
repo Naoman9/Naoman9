@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Naoman9
-- 👀 I’m interested in Web and Mobiile App Development
-- 🌱 I’m currently learning.
+- 👀 I’m interested in Game Development and Mobiile App Development
+- 🌱 I’m currently learning day by day.
 - 💞️ I’m looking to collaborate with experinced Developers
 - 📫 How to reach me with my WhatasApp (+923326264310) and Email (naoman.muhammd@gmail.com)
 
